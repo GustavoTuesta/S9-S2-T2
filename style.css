@@ -12,3 +12,8 @@ button {
     background-color: pink;
     color: white;
 }
+
+.caja {
+    padding-left: 800px ;
+    width: 300px;
+}
